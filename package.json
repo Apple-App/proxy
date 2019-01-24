@@ -19,8 +19,13 @@
   },
   "homepage": "https://github.com/Themyscira19/Video-Player-Proxy#readme",
   "dependencies": {
+    "axios": "^0.18.0",
     "cors": "^2.8.5",
     "express": "^4.16.4",
+    "http-proxy-middleware": "^0.19.1",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-transition-group": "^2.5.3",
     "request": "^2.88.0"
   },
   "devDependencies": {
